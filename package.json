@@ -1,5 +1,5 @@
 {
-"name":"suplioboard":
+  "name":"suplioboard",
   "dependencies": {
     "@supabase/supabase-js":"^1.18"
   }

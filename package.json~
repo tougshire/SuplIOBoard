@@ -1,7 +1,6 @@
 {
 "name":"suplioboard":
   "dependencies": {
-    "@supabase/supabase-js"
-    "@apollo/client": "^3.2.7",
+    "@supabase/supabase-js":"^1.18"
   }
 }
