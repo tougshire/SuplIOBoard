@@ -1,7 +1,2 @@
-
-.index.html.swp
-*.un~
-*.html~
+*.*~
 *.swp
-*.js~
-*.toml~
