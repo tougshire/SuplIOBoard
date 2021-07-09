@@ -7,7 +7,7 @@ exports.handler = async event => {
 
 	const { data, error } = await supabase
 		.from('IOBoard')
- 		.select('name, status')
+ 		.select()
 
   // Did it work?
   console.log(data, error);
